@@ -18,6 +18,7 @@ To use the `pbcheck` tool, run the following command:
 ```bash
 python pbcheck.py
 ```
+***jika eror sialhkan ganti value ses**
 
 ## MY SOCIAL MEDIA
 [![Github](https://img.shields.io/badge/Github-Ikuti-green?style=for-the-badge&logo=github)](https://github.com/zhukov-z)
